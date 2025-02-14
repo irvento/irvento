@@ -14,6 +14,7 @@
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=irvento&show_icons=true&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com?user=irvento&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 ## 🚀 Most Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=irvento&layout=compact&theme=radical)
