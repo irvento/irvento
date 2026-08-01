@@ -1,4 +1,8 @@
-# 👋 Hi, I'm Irven!
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0072FF,100:00C6FF&text=Hi%20I'm%20Irven&descAlign=26&descAlignY=79&fontAlignY=39&strokeWidth=2&fontSize=40&animation=fadeIn" width="100%" />
+
+
+
+
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=9jpplna0e4bs72rf3ikgxxbg3&cover_image=true&theme=spotify-embed&show_offline=true&background_color=ff7b00&interchange=true&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=true&mode=dark)](https://spotify-github-profile.kittinanx.com/api/view?uid=9jpplna0e4bs72rf3ikgxxbg3&redirect=true)
 ## Tech Stack
 
@@ -52,3 +56,4 @@
   
   ⭐️ From [Irven](https://github.com/irvento)
 </div>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0072FF,100:00C6FF" width="100%" />
