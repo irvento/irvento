@@ -36,22 +36,13 @@
   <img src="https://streak-stats.demolab.com?user=irvento&theme=radical&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </div>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=irvento&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-## 📌 Featured Project
-
-### [IRVEN's PORTFOLIO](https://irvento.github.io/portfolio/)
-> Personal portfolio showcasing my web development projects and skills.
-> Built with **HTML5, CSS3, JavaScript**
-
 ## 🤝 Connect With Me
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://irvento.github.io/portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/irvento)
 
----
+
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=irvento&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
