@@ -1,11 +1,19 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:00F2FE,100:4FACFE&text=Hi%20I'm%20Irven&descAlign=26&descAlignY=79&fontAlignY=39&strokeWidth=2&fontSize=40&animation=fadeIn" width="100%" />
 
-<div align="left">
+<div align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=9jpplna0e4bs72rf3ikgxxbg3&redirect=true">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=9jpplna0e4bs72rf3ikgxxbg3&cover_image=true&theme=spotify-embed&show_offline=true&background_color=ff7b00&interchange=true&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=true&mode=dark" />
   </a>
   <img src="https://media.tenor.com/nj-2DJVcKC8AAAAj/league-of-legends-lol-fizz.gif" width="173" height="173" style="margin-right: 15px;" />
   <img src="https://media1.tenor.com/m/Rd0jrWH5JjgAAAAd/cat-scuba.gif" width="173" height="173" style="margin-right: 15px;" />
+</div>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/irvento/irvento/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/irvento/irvento/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/irvento/irvento/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 ## Tech Stack
 
