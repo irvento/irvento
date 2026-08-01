@@ -5,6 +5,7 @@
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=9jpplna0e4bs72rf3ikgxxbg3&cover_image=true&theme=spotify-embed&show_offline=true&background_color=ff7b00&interchange=true&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=true&mode=dark" />
   </a>
   <img src="https://media.tenor.com/nj-2DJVcKC8AAAAj/league-of-legends-lol-fizz.gif" width="173" height="173" style="margin-right: 15px;" />
+  <img src="https://media1.tenor.com/m/Rd0jrWH5JjgAAAAd/cat-scuba.gif" width="173" height="173" style="margin-right: 15px;" />
 </div>
 ## Tech Stack
 
