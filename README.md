@@ -1,6 +1,5 @@
 # 👋 Hi, I'm Irven!
-
-
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=9jpplna0e4bs72rf3ikgxxbg3&cover_image=true&theme=spotify-embed&show_offline=true&background_color=ff7b00&interchange=true&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=true&mode=dark)](https://spotify-github-profile.kittinanx.com/api/view?uid=9jpplna0e4bs72rf3ikgxxbg3&redirect=true)
 ## Tech Stack
 
 ### Languages
@@ -39,10 +38,6 @@
 ### [IRVEN's PORTFOLIO](https://irvento.github.io/portfolio/)
 > Personal portfolio showcasing my web development projects and skills.
 > Built with **HTML5, CSS3, JavaScript**
-
-## 📈 Activity Graph
-
-![Irven's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=irvento&theme=redical)
 
 ## 🤝 Connect With Me
 
