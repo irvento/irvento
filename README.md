@@ -52,7 +52,11 @@
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/irvento)
 
 
-
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy-api.vercel.app/?username=irvento&theme=radical&column=6&margin-w=15&margin-h=15&no-bg=true" alt="Trophies" />
+  </a>
+</div>
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=irvento&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
   
