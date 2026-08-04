@@ -15,7 +15,7 @@
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/irvento/irvento/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
-## Tech Stack
+### Tech Stack
 
 ### Languages
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -34,11 +34,12 @@
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=irvento&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irvento&layout=compact&theme=radical&langs_count=8"/>
+      <img height="350" width="auto" src="https://github-readme-stats-fast.vercel.app/api?username=irvento&show_icons=true&theme=radical&rank_icon=github&include_all_commits=true&count_private=true" width="80%" />
+
+
 </div>
 
 <div align="center">
