@@ -36,14 +36,14 @@
 
 ## GitHub Analytics
 
-<div align="center">
-      <img height="350" width="auto" src="https://github-readme-stats-fast.vercel.app/api?username=irvento&show_icons=true&theme=radical&rank_icon=github&include_all_commits=true&count_private=true" width="80%" />
-
-
+<div align="center"> 
+  <img height="350" width="auto" src="https://github-readme-stats-fast.vercel.app/api?username=irvento&show_icons=true&theme=radical&rank_icon=github&include_all_commits=true&count_private=true" width="80%" /> 
 </div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=irvento&theme=radical&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+<div align="center"> 
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=irvento&theme=dark&show_icons=true&count_private=true" />
+</div>
+<div align="center"> 
+  <img src="https://streak-stats.demolab.com?user=irvento&theme=radical&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /> 
 </div>
 
 ## 🤝 Connect With Me
