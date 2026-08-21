@@ -15,7 +15,7 @@
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/irvento/irvento/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
-### Tech Stack
+###Tech Stack
 
 ### Languages
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
