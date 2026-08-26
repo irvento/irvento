@@ -73,9 +73,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=irvento&show_icons=true&theme=tokyonight&rank_icon=github&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=irvento&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub Streak" />
-</div>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=irvento&show_icons=true&theme=tokyonight&rank_icon=github&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000" alt="GitHub Stats" /></div>
 
 <br/>
 
