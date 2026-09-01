@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:00F2FE,100:4FACFE&text=Hi%20there,%20I'm%20Irven%20👋&desc=Dev%20%7C%20Open%20Source&descAlign=50&descAlignY=70&fontAlignY=40&strokeWidth=2&fontSize=42&fontColor=ffffff&descSize=18&animation=fadeIn" width="100%" alt="Irven's GitHub Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:00F2FE,100:4FACFE&text=Hi%20there,%20I'm%20Irven%20👋&desc=Dev&descAlign=50&descAlignY=70&fontAlignY=40&strokeWidth=2&fontSize=42&fontColor=ffffff&descSize=18&animation=fadeIn" width="100%" alt="Irven's GitHub Banner" />
 </p>
 
 <!-- Social Links & Profile Views -->
