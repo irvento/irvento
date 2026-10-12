@@ -33,7 +33,7 @@
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 **Languages**
 <p align="left">
@@ -60,21 +60,10 @@
 
 ---
 
-### 📊 GitHub Activity & Stats
+### GitHub Activity & Stats
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/irvento/irvento/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/irvento/irvento/output/github-contribution-grid-snake.svg">
-    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/irvento/irvento/output/github-contribution-grid-snake.svg" width="100%" />
-  </picture>
-  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/irvento/irvento/output/gh-space-shooter-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/irvento/irvento/output/gh-space-shooter.svg">
-  <img alt="GitHub contribution space shooter animation" src="https://raw.githubusercontent.com/irvento/irvento/output/gh-space-shooter.svg">
-</picture>
-</div>
 
+<img src="https://raw.githubusercontent.com/irvento/irvento/main/game.gif" alt="GitHub Space Shooter Game" width="100%" />
 <br/>
 
 <div align="center">
